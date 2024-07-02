@@ -50,7 +50,7 @@ Running the Live Camera Prediction
 To predict hand gestures in real-time using the trained model, execute:
 
 ```bash 
-python main.py
+python Sign_Action_Recognition.py
 ```
 
 
